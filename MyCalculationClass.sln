@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCalculationClasses", "MyC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCalculationTests", "..\MyCalculationTests\MyCalculationTests.csproj", "{235042F3-E08D-4394-B138-3A894F76795C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPNetCoreApp", "..\ASPNetCoreApp\ASPNetCoreApp.csproj", "{C8557F60-8B2A-4F4D-B1DB-89AA8D05DFAF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{235042F3-E08D-4394-B138-3A894F76795C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{235042F3-E08D-4394-B138-3A894F76795C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{235042F3-E08D-4394-B138-3A894F76795C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8557F60-8B2A-4F4D-B1DB-89AA8D05DFAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8557F60-8B2A-4F4D-B1DB-89AA8D05DFAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8557F60-8B2A-4F4D-B1DB-89AA8D05DFAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8557F60-8B2A-4F4D-B1DB-89AA8D05DFAF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
