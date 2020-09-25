@@ -4,7 +4,7 @@ using MyCalculationClasses;
 namespace MyCalculationTests
 {
     [TestClass]
-    public class MyCalculationTests
+    public class MyCalculationTests1
     {
        [TestMethod]
        public void ValidateAdditionTest()
